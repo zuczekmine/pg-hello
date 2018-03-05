@@ -20,3 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function userInfo() {
+	user = "Anna Żukowska \n 188897"
+	navigator.notification.alert(user);
+}
